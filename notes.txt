@@ -1,0 +1,6 @@
+Notes
+    - Strings in UTF-8 or Array of Runes
+    - defer functions (LIFO mechanism)
+        file.Open ("file")
+        defer file.Close()
+    - ... in Golang
