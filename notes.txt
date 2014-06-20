@@ -4,3 +4,6 @@ Notes
         file.Open ("file")
         defer file.Close()
     - ... in Golang
+    - The type specification for a slice is []T, where T is the type of the elements of the slice. 
+    Unlike an array type, a slice type has no specified length.
+    - 
